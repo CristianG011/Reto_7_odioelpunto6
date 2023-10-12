@@ -12,6 +12,7 @@ while x <= 100:
 ```
 # Punto 2
 2.  Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
+
 ![](https://i.ibb.co/TcTY9M4/Punto-2.png)
 
 ```
@@ -30,6 +31,8 @@ while y <= 1000:
 ```
 # Punto 3
 3.  Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
+
+![](https://i.ibb.co/5xRQBVJ/Punto-3.png)
 ```
 n= int(input("Ingrese un número natural mayor o igual a dos: "))
 while n>=2:
